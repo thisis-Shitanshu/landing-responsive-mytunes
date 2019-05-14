@@ -7,3 +7,8 @@
     - In the website:
         - CSS variables
         - Media Queries
+
+## The Landing Page
+visit at, [Click here.](https://thisis-shitanshu.github.io/landing-responsive-mytunes/)
+
+![](./screenshot.jpg)
