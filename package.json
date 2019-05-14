@@ -1,0 +1,15 @@
+{
+  "name": "mytunes",
+  "version": "1.0.0",
+  "description": "Landing page for \"myTunes\".",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "homepage": "https://thisis-Shitanshu.github.io/landing-responsive-mytunes",
+  "author": "Shitanshu",
+  "license": "MIT",
+  "dependencies": {
+    "gh-pages": "^2.0.1"
+  }
+}
